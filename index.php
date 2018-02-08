@@ -63,7 +63,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col">
+			<div class="col-12" style="padding-left: 0px; padding-right: 0px;">
 				<ul class="nav" style="background-color: blue; float: left;">
   					<li class="nav-item">
   						<a class="nav-link active" href="https://www.topocentras.lt/parduotuviu-tinklas/" style="color: white;">Akcijos ir pasiulymai</a>
@@ -99,8 +99,8 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col">
-				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-left: 25px;">
+			<div class="col" style="padding-left: 0px; padding-right: 0px;">
+				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="padding-left: 40px;">
   					<ol class="carousel-indicators">
     					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">asa</li>
     					<li data-target="#carouselExampleIndicators" data-slide-to="1">asa</li>
@@ -151,7 +151,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-12" >
+			<div class="col-12" style="padding-left: 0px; padding-right: 0px; height: 100%;">
 				<div style="float: left;">
 					<button data-target="#carouselExampleIndicators" data-slide-to="0" style="font-size: 10px; padding: 3px;">TOP kainos LG televizoriams</button>
 				</div>
@@ -180,15 +180,19 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col">
-				<div style="float: left; position: relative;">
-					<img src="Snai_per_kainas_940x220.jpg" hspace="5"  style="display: inline-block; border-radius: 2px; border: 10px groove white;width: 500px; height: 200px;">
+			<div class="col-4" style="padding-left: 0px; padding-right: 0px;">
+				<div class="card" style="border: 1px solid black">
+  					<a href="https://www.topocentras.lt/sutaupyk-papildomai?ref=baneris-6-blokai-nuolaidos-kodai-perkant-internetu" target="_blank"><img class="card-img-top" src="Snai_per_kainas_940x220.jpg" alt="Card image cap" style="width: 445px; height: 220px;"></a>
 				</div>
-				<div style="float: left; position: relative;">
-					<img src="download.jpg" hspace="5" style="border:10px groove white ">
+			</div>
+			<div class="col-4" style="padding-left: 0px; padding-right: 0px;">
+				<div class="card" style="border: 1px solid black">
+  					<a href="https://www.topocentras.lt/rinkites-moketi-dalimis-su-gf-lizingu.html?ref=baneris-6-blokai-gf-lizingas-issimoketinai-be-pabrangimo" target="_blank"><img class="card-img-top" src="download.jpg" alt="Card image cap" style="width: 445px; height: 220px;"></a>
 				</div>
-				<div style="float: left; position: relative;">
-					<img src="Omniva_svetaines-baneriai-korekcija-1270x210_11.jpg" style="display: inline-block; border-radius: 2px; border: 10px groove white;width: 500px; height: 200px;">
+			</div>
+			<div class="col-4" style="padding-left: 0px; padding-right: 0px;">
+				<div class="card" style="border: 1px solid black">
+  					<a href="https://www.topocentras.lt/nemokamas-pristatymas-su-omniva?ref=baneris-6-blokai-nemok-pristatymas-omniva" target="_blank"><img class="card-img-top" src="Omniva_svetaines-baneriai-korekcija-1270x210_11.jpg" alt="Card image cap" style="width: 445px; height: 220px;"></a>
 				</div>
 			</div>
 		</div>
