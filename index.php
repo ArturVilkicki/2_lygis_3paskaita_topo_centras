@@ -192,6 +192,9 @@
 				</div>
 			</div>
 		</div>
+		<div>
+			<p>Bandymas</p>
+		</div>
 	</div>	
 </body>
 </html>
